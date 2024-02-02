@@ -22,7 +22,7 @@ If you see this Repo, and like the work, do 🌟 it and fork it:)
 
 Happy Coding and keep learning new skills:)
 
-The Generator can be accessed with this link:(https://superhero-api.lakshyagarg10.repl.co/)
+The Generator can be accessed with this link:(https://lakshya0018up.github.io/SuperHero-App/)
 
 Happy Coding:)
 
